@@ -1,0 +1,81 @@
+name,owner,trained on x billion parameters,date
+BERT,Google,0.34,Oct-18
+GPT-2,OpenAI,1.5,Feb-19
+T5,Google,11,Oct-19
+Megatron-11B,Meta / Facebook,11,Apr-20
+BlenderBot1,Meta / Facebook,9.4,Apr-20
+GPT-3,OpenAI,175,May-20
+Wu Dao 2.0,Beijing Academy of AI,1750,Jan-21
+GPT-J,EleutherAI,6,Jun-21
+PanGu-Alpha,Huawei,200,Apr-21
+LaMDA,Google,137,Jun-21
+BlenderBot2.0,Meta / Facebook,9.4,Jul-21
+Jurassic-1,AI21,178,Aug-21
+Codex,OpenAI,12,Aug-21
+FLAN,Google,137,Sep-21
+PLATO-XL,Baidu,11,Sep-21
+WeLM,WeChat,10,Sep-22
+xlarge,Cohere,52.4,Sep-21
+Megatron-Turing NLG,Meta / Facebook,530,Oct-21
+MT-NLG,Microsoft,530,Oct-21
+BERT-200,Google,200,Nov-21
+BERT-480,Google,480,Nov-21
+Luminous,Aleph Alpha,200,Nov-21
+Ernie 3.0 Titan,Baidu,260,Dec-21
+GLaM,Google,1200,Dec-21
+Gopher,Google Deepmind,280,Dec-21
+GPT-NeoX,EleutherAI,20,Feb-22
+GPT Neo,EleutherAI,2.7,Feb-22
+Chinchilla,DeepMind,70,Mar-22
+CodeGen,Salesforce,16,Mar-22
+InCoder,Meta,6.7,Apr-22
+mGPT,Sber,13,Apr-22
+PaLM,Google,540,Apr-22
+OPT-IML,Meta AI,175,May-22
+Minerva,Google,540,Jun-22
+YaLM 100B,Yandex,100,Jun-22
+BLOOM,BigScience,175,Jul-22
+FIM 6.9B,OpenAI,6.9,Jul-22
+NLLB-200,Meta AI,54.5,Jul-22
+GLM-130B,Tsinghua & Zhipu,130,Aug-22
+Atlas,Meta,11,Aug-22
+BlenderBot3,Meta / Facebook,175,Aug-22
+AlexaTM,Amazon,20,Aug-22
+PaLI,Google,17,Sep-22
+Sparrow,Google,70,Sep-22
+MT5,Google,13,Oct-22
+Galactica,Meta / Facebook,120,Nov-22
+ChatGPT,OpenAI,12,Nov-22
+RL-CAI,Anthropic,52,Dec-22
+Exaone,LG,300,Dec-22
+GPT 3.5,OpenAI,175,Dec-22
+WebGPT,Open AI / Microsoft,175,Jan-23
+Claude,Anthropic,52,Jan-23
+LLaMa,Meta / Facebook,65,Feb-23
+Luminous Supreme,Aleph Alpha,70,Feb-23
+PanGu-Sigma,Huawei,1085,Mar-23
+Bard*,Google,0.7,Feb-23
+Alpaca,Stanford,7,Mar-23
+BloombergGPT,Bloomberg,50,Mar-23
+Cerebras-GPT,Cerebras,13,Mar-23
+Ernie Bot,Baidu,200,Dec-21
+GPT-4*,OpenAI,1000,Mar-23
+GPT4All-LoRA,Nomic,7,Mar-23
+Jurassic-2*,AI21,200,Mar-23
+Koala-13B,Berkeley,13,Apr-23
+StableLM,Stability AI,65,Apr-23
+Dolly 2.0,Databricks,12,Apr-23
+SenseChat,SenseTime,200,Apr-23
+Titan,Amazon,350,Apr-23
+Tongyi Qianwen,Alibaba,200,Apr-23
+Hugging Chat,LAION,30,Apr-23
+BingChat*,Microsoft / OpenAI,1000,Apr-23
+PaLM2,Google,540,May-23
+Vicuna-13B,Vicuna Team,65,Mar-23
+Falcon LLM,Technology Innovation Institute,40,Jun-23
+Sail-7B,Open Language Safety Research,7,Jun-23
+Web LLM,Independent,7,Jun-23
+OpenLLM,Independent,13,Jun-23
+Ernie Bot 3.5,Baidu,200,Jul-23
+Claude 2,Anthropic,52,Jul-23
+LLaMa2,Facebook,70,Jul-23
